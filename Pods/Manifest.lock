@@ -1,0 +1,36 @@
+PODS:
+  - DropDown (2.3.13)
+  - LayoutHelper (1.0.0)
+  - TensorFlowLiteC (2.12.0):
+    - TensorFlowLiteC/Core (= 2.12.0)
+  - TensorFlowLiteC/Core (2.12.0)
+  - TensorFlowLiteSwift (2.12.0):
+    - TensorFlowLiteSwift/Core (= 2.12.0)
+  - TensorFlowLiteSwift/Core (2.12.0):
+    - TensorFlowLiteC (= 2.12.0)
+  - TensorFlowLiteTaskVision (0.4.3)
+
+DEPENDENCIES:
+  - DropDown
+  - LayoutHelper
+  - TensorFlowLiteSwift
+  - TensorFlowLiteTaskVision
+
+SPEC REPOS:
+  trunk:
+    - DropDown
+    - LayoutHelper
+    - TensorFlowLiteC
+    - TensorFlowLiteSwift
+    - TensorFlowLiteTaskVision
+
+SPEC CHECKSUMS:
+  DropDown: 8a2116376c1981888557f72ec2ffc9a5e0e456ec
+  LayoutHelper: fd809f52e0ae583f7576bf5d2af8248b5c3ec4d0
+  TensorFlowLiteC: 20785a69299185a379ba9852b6625f00afd7984a
+  TensorFlowLiteSwift: 3a4928286e9e35bdd3e17970f48e53c80d25e793
+  TensorFlowLiteTaskVision: 125d5b49d325ba2cf3938454da5f74a1cbfe0552
+
+PODFILE CHECKSUM: b762b57ca39fbbec7737782311aff7d032fdb1c6
+
+COCOAPODS: 1.12.0
